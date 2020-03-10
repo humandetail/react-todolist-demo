@@ -1,0 +1,13 @@
+.home-main {
+  width: 640px;
+  min-height: 200px;
+  margin: 15px auto;
+
+  .input-wrapper {
+    input,
+    button {
+      outline: none;
+      box-shadow: none;
+    }
+  }
+}
